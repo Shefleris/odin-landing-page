@@ -59,3 +59,28 @@ header ul {
 .hero-content {
     max-width:500px;
 }
+
+.random-container {
+    padding: 0 300px;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    text-align:center;
+}
+
+.information-containers {
+    display:flex;
+    justify-content: space-between;
+    gap:20px;
+}
+
+.container {
+    width:150px;
+}
+
+.image-border {
+    width: 150px;
+    height: 150px;
+    border: 2px solid #3882F6;
+    border-radius: 15px;
+}
