@@ -42,10 +42,24 @@ figcaption {
     text-align:right;
 }
 
+.call-to-action button {
+    background-color:#3882F6;
+    color:#E5E7EB;
+    border: 2px solid #E5E7EB;
+    border-radius:5px;
+    padding:5px 10px;
+    flex:0 0 0;
+}
+
+footer p {
+    color:#E5E7EB;
+}
+
 /*Structure*/
 
 header, 
-.hero {
+.hero, 
+footer {
     background-color:#1F2937;
     display:flex;
     padding:0 300px 50px 300px;
@@ -105,4 +119,26 @@ header ul {
 
 .quote {
     max-width:850px;
+}
+
+.call-to-action-container {
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    padding:50px;
+}
+
+.call-to-action {
+    background-color:#3882F6;
+    color:#E5E7EB;
+    font-size:18px;
+    display:flex;
+    padding:50px 100px;
+    border-radius: 10px;
+    gap:20px;
+}
+
+footer {
+    display:flex;
+    justify-content:center;
 }
