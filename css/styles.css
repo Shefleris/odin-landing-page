@@ -31,6 +31,17 @@ header a,
     padding:5px 10px;
 }
 
+blockquote {
+    font-size:36px;
+    font-style:italic;
+    color:#1F2937;
+}
+
+figcaption {
+    font-weight:bold;
+    text-align:right;
+}
+
 /*Structure*/
 
 header, 
@@ -83,4 +94,15 @@ header ul {
     height: 150px;
     border: 2px solid #3882F6;
     border-radius: 15px;
+}
+
+.quote-container {
+    background-color:#E5E7EB;
+    padding: 25px;
+    display:flex;
+    justify-content:center;
+}
+
+.quote {
+    max-width:850px;
 }
