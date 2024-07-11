@@ -7,4 +7,4 @@ This the second project in the Odin project curriculum. The goal of it is to cre
 - [Link to the assignment](https://www.theodinproject.com/lessons/foundations-landing-page)
 
 ## Thoughts
-Initialy i fell back on using margin and padding to position flex boxes to the right areas. However, on my second attempt at the assignment half a day later. I had a much easier time making use of flex boxes layout features to postion the boxes.
+Initialy i fell back on using margin and padding to position flex boxes to the right areas. However, on my second attempt at the assignment half a day later. I had a much easier time making use of flex boxes layout features to position the boxes.
